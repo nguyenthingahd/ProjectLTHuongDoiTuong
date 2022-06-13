@@ -1,5 +1,7 @@
 # ProjectLTHuongDoiTuong
-**THÀNH VIÊN NHÓM:
+**XÂY DỰNG PHẦN MỀM QUẢN LÝ NHÂN VIÊN TRƯỜNG ĐẠI HỌC PHENIKAA**
+
+**THÀNH VIÊN NHÓM:**
 1. Nguyễn Thị Nga - 20010809
 2. Nguyễn Thị Trang Nhung - 20010812
 3. Âu Thị Quý - 20010795
